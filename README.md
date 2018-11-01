@@ -22,7 +22,7 @@ To use this plugin, please perform the actions below:
 ### GUI
 1. Install [Atom latest](https://atom.io) or newer
 1. Launch Atom
-1. Open **Settings View** using `Cmd+,` on macOS or `Ctrl+,`on other platforms
+1. Open **Settings View** using `Cmd + ,` on macOS or `Ctrl + ,`on other platforms
 1. Click the **Install** tab on the left side
 1. Enter `trueautomation-element-picker` in the search field and press `Enter`
 1. Click the **Install** button that appears
