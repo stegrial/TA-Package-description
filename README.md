@@ -11,7 +11,7 @@ When you pick an element that should be used in your test, TrueAutomation.IO gen
 *Visit [trueautomation.io](https://trueautomation.io) for documentation and inquiries.*
 
 ## Installation
-### Dependencies
+### Dependenciesgit 
 
 To use this plugin, please perform the actions below:
 - Install Atom IDE (recommended version 1.31.2 and higher)
